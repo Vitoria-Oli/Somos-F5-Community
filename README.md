@@ -61,14 +61,6 @@ https://www.figma.com/file/nlMZ0jShJE4OycCJLs9z0M/Somos-F5?node-id=0%3A1&t=RJWrh
 - SpringBoot
 - Vuetify
 
- ### Autores
-- Diego González https://github.com/diegofred10
-- Vitoria Oliveira https://github.com/Vitoria-Oli
-- Saúl Aguinaga https://github.com/SaulAguinaga
-- Alicia Fernández https://github.com/alcfdez
-- Enol Igareta https://github.com/EnolCode
-- Gabriel Méndez https://github.com/GabriMF
-- Natalia Calvo https://github.com/NataliaCalvo
 
 ## Recommended IDE Setup
 
@@ -145,3 +137,11 @@ mvn clean package
 ```
   
 
+ ### Autores
+- Diego González https://github.com/diegofred10
+- Vitoria Oliveira https://github.com/Vitoria-Oli
+- Saúl Aguinaga https://github.com/SaulAguinaga
+- Alicia Fernández https://github.com/alcfdez
+- Enol Igareta https://github.com/EnolCode
+- Gabriel Méndez https://github.com/GabriMF
+- Natalia Calvo https://github.com/NataliaCalvo
