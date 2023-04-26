@@ -16,27 +16,27 @@ Red social y plataforma para compartir recursos entre coders o excoders para la 
 
 
 ## Prototipo Versión Desktop
-<img width="523" alt="desktop" src="https://user-images.githubusercontent.com/116891108/217948858-817bd8ff-624b-4af0-b877-075fd48b9287.png">
+<img width="922" alt="Captura de pantalla 2023-04-26 a las 14 15 42" src="https://user-images.githubusercontent.com/116884831/234571683-c01f6413-31c7-460f-90d3-5627c57f4f5c.png">
 
 
 
 ## 📁 Accesos al proyecto
-https://github.com/FactoriaF5-Asturias/Somos-F5-Community.git
-  
+https://github.com/FactoriaF5-Asturias/Somos-F5-Community.git 
 https://www.figma.com/file/nlMZ0jShJE4OycCJLs9z0M/Somos-F5?node-id=0%3A1&t=RJWrhu4hDNWbHsnZ-1
 
 # Diagramas
 
 ## Diagrama UML
-<img width="323" alt="ej diagrama uml" src="https://user-images.githubusercontent.com/116891108/217953161-a96391a3-a243-4f51-a885-bc91c0343da7.png">
+
 
 ## Diagrama Base Datos 
 
-![Diagrama-de-basesdedatos-reestructurado-mejor](https://user-images.githubusercontent.com/116891108/217953743-557048e9-f86d-41cc-a58a-9eb870cd9226.png)
+![36A3D11A-3BAE-4626-BD6D-E9ABC67B076E](https://user-images.githubusercontent.com/116884831/234572429-bb86390a-216f-46a9-a2be-8f4c24429c4c.png)
+
 
 ## Diagrama UserFlow
 
-![user flow zoo drawio](https://user-images.githubusercontent.com/116891108/217953885-f5ad960f-d334-4df7-8a4e-b2212e1ef340.png)
+
 
 
 # :heavy_check_mark: Herramientas utilizadas:
@@ -134,9 +134,10 @@ mvn clean package
 ```
   
  ### Autores
-
-- Product Owner => Guillermo J Trigueros Martin https://github.com/Guillermo292
-- Scrum Master => Jehisel Ramos https://github.com/JehiselRuth
+- Diego González https://github.com/diegofred10
+- Vitoria Oliveira https://github.com/Vitoria-Oli
 - Saúl Aguinaga https://github.com/SaulAguinaga
-- David Daza https://github.com/drdaza
 - Alicia Fernández https://github.com/alcfdez
+- Enol Igareta https://github.com/EnolCode
+- Gabriel Méndez https://github.com/GabriMF
+- Natalia Calvo https://github.com/NataliaCalvo
