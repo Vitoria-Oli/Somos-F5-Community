@@ -1,14 +1,20 @@
-<script>
+<script setup>
+import HeaderLogin from '../components/HeaderLogin.vue'
+import LogInComp from '../components/LogInComp.vue'
 
 </script>
+
 <template>
-    <div id="logInPage">
-        <h2>login</h2>
-    </div>
+    <main class="main">
+        <HeaderLogIn />
+        <LogInComp />
+    </main>
 </template>
+
 <style scoped lang="scss">
-    #logInPage{
-        background-color: orange;
-        
-    }
+.main {
+    background-color: #FF4700;
+    width: 100vw;
+    height: 100vh;
+}
 </style>

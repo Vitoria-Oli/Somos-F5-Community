@@ -1,4 +1,4 @@
-package com.somosf5community.somosf5community;
+package com.somosf5community;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
